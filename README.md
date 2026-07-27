@@ -63,4 +63,4 @@
 
 ## 📄 License
 
-MIT License
+The Linked LICENSE(LICENSE.txt)
