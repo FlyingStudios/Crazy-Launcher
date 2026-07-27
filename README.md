@@ -1,2 +1,2 @@
 # Crazy-Launcher
-A little game launcher that can scan your pc to get it into the launcher. If you want to download it see below 👇
+The MIT license applies to the files below, and my own license applies to the installer, which you will also see when you use the installer.
