@@ -1,0 +1,29 @@
+Flying Studios License 1.0
+
+Copyright (c) 2026 Flying Studios
+
+Permission is granted to use and modify this software for personal and non-commercial purposes.
+
+You are allowed to:
+- Use this software.
+- Modify this software.
+- Create your own editions or modified versions of this software.
+- Share modified versions of this software for free.
+
+You are not allowed to:
+- Sell this software or modified versions of this software without explicit permission from Flying Studios.
+- Claim this software or major parts of its code as your own creation.
+
+If you create a modified version or your own edition and distribute it for free, you must provide visible credit to Flying Studios.
+
+The credit must be placed in a location where users can easily see it, such as:
+- An "About" section.
+- A credits page.
+- The main menu.
+- The application information screen.
+
+Credits must not be hidden, removed, or placed in a location that users are unlikely to find.
+
+Modified versions must clearly indicate that they have been modified from the original software.
+
+This software is provided "as is", without warranty of any kind.
