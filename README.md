@@ -1,15 +1,13 @@
-# 🚀 Crazy Launcher
+<img width="1200" height="1200" alt="photo" src="https://github.com/user-attachments/assets/b8247fcf-ba39-4c20-bd89-e3b1541c38a8" />
 
-<p align="center">
-  <img src="screenshot.png" width="800">
-</p>
+# 🚀 Crazy Launcher
 
 <h3 align="center">
   Your games. One launcher.
 </h3>
 
 <p align="center">
-  A Windows game launcher that automatically detects and launches your installed games.
+  A Windows game launcher that automatically detects and launches your installed steam games.
 </p>
 
 ---
@@ -22,14 +20,14 @@
 ⚡ **Fast Launching**
 > Start your games directly from one place.
 
+
 🔍 **Game Library**
 > View your games in an organized launcher.
 
 ---
 
 ## 📸 Preview
-
-<img src="screenshot.png">
+<img width="1315" height="846" alt="screenshot" src="https://github.com/user-attachments/assets/1f2e7d0e-a3b6-4b60-bc75-c72b2f591cd3" />
 
 ---
 
@@ -63,4 +61,4 @@
 
 ## 📄 License
 
-The Linked LICENSE(LICENSE.txt)
+Linked LICENSE(LICENSE.txt)
